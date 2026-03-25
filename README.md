@@ -1,3 +1,6 @@
 # GitHub-_activity
 My first GitHub repository 
-This is a sample file for GitHub activity.
+
+Name: Ramya Mohan  
+Course: B.Tech AI & DS  
+Year: 1st Year
